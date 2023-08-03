@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Powerball: Lotto rises to $1.9bn world record prize with no jackpot winner",
+    "description": "The odds of winning Monday's jackpot are one in 292.2 million, with no winner in more than three months.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63534576",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BA1B/production/_127534674_d51b7e37aa3cf22ce72f0b58790d92b4eafaa48b0_727_7030_39561000x563.jpg",
+    "publishedAt": "2022-11-06T15:22:20.9252807Z",
+    "content": "The US Powerball jackpot has risen to $1.9bn (£1.7bn) after there was no winning ticket for Saturday's world-record prize.\r\nThe premier lottery game has had no winner in more than three months after … [+1115 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Aaron Carter: Singer and brother of Backstreet Boys' Nick dies aged 34",
+    "description": "Aaron Carter, famous as a child pop star, was the younger brother of Backstreet Boys' Nick Carter.",
+    "url": "http://www.bbc.co.uk/news/entertainment-arts-63527899",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11EC5/production/_127531437_gettyimages-1370262424.jpg",
+    "publishedAt": "2022-11-06T15:07:20.5323914Z",
+    "content": "Singer and rapper Aaron Carter has died at the age of 34.\r\nHe was the younger brother of the Backstreet Boys' Nick Carter.\r\nWebsite TMZ said Carter was found dead in his bath at his home in Lancaster… [+3150 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Jordan Bardella: French National Rally has new leader to replace Le Pen",
+    "description": "The appointment of Jordan Bardella, 27, allows Ms Le Pen to focus on leading the parliamentary party.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63525377",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/BF4C/production/_127527984_fb821efb0874a350815ee4a2849be4f32b71786d0_0_5000_33331000x667.jpg",
+    "publishedAt": "2022-11-06T14:52:18.97037Z",
+    "content": "France's far-right National Rally (RN) has confirmed 27-year-old Jordan Bardella as the replacement as party leader for Marine Le Pen. \r\nMs Le Pen will focus instead on leading the party's group in p… [+2731 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US midterms: Biden, Trump make a final push to get voters out",
+    "description": "Voters brace for last minute surge in campaigning in the battle to decide the control of Congress.",
+    "url": "http://www.bbc.co.uk/news/live/world-us-canada-63525117",
+    "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+    "publishedAt": "2022-11-06T14:22:29.3135704Z",
+    "content": "Dr Mehmet OzImage caption: Dr Mehmet Oz\r\nAs we've been reporting, Pennsylvania features one of the most important Senate races in this midterm election. But who exactly are the two candidates vying f… [+1630 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Twitter users jump to Mastodon - but what is it?",
+    "description": "The little-known social network's user base has swelled after Elon Musk's takeover of Twitter.",
+    "url": "http://www.bbc.co.uk/news/technology-63534240",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/8951/production/_127535153_gettyimages-1244516684.jpg",
+    "publishedAt": "2022-11-06T13:52:21.705237Z",
+    "content": "In the wake of Elon Musk's takeover of Twitter, some users have been seeking alternative platforms. One of the biggest beneficiaries has been Mastodon. But what is it?\r\nThe social network says it now… [+4019 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "US midterms: Why abortion matters in these crucial elections",
+    "description": "Inflation is voters' top issue, but Democrats hope anger over abortion bans will boost turnout.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63434895",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13E1/production/_125798050_hi076912464.jpg",
+    "publishedAt": "2022-11-06T12:37:26.0445549Z",
+    "content": "I met Susan Van Hoek at a pro-choice women's demonstration in Michigan's capital, Lansing. As she stood there with a placard, wearing her long grey hair loose, she remembered marching for abortion ri… [+7346 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Italy stops adult male migrants from disembarking",
+    "description": "The new far-right government allows only vulnerable people to leave a migrant ship stuck for two weeks.",
+    "url": "http://www.bbc.co.uk/news/world-europe-63533769",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9D97/production/_127534304_gettyimages-1439360201.jpg",
+    "publishedAt": "2022-11-06T11:52:23.5300567Z",
+    "content": "Italy's new far-right government has prevented 35 men from leaving a migrant ship which has been requesting access to an Italian port for two weeks.\r\nMinors and people with medical issues were allowe… [+1940 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Tanzanian plane crash-lands into Lake Victoria",
+    "description": "More than 20 of the 49 passengers have been rescued, according to local media reports.",
+    "url": "http://www.bbc.co.uk/news/world-africa-63532896",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/56D9/production/_127533222_8af697f3-45ce-44dd-a302-1781c8e16be0.png",
+    "publishedAt": "2022-11-06T08:52:21.6233039Z",
+    "content": "A Tanzanian passenger plane has crash-landed into Lake Victoria near the north-western town of Bukoba.\r\nMore than 20 of the 49 passengers have been rescued, according to local media reports, but thes… [+269 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "WATCH: Moment woman saved from fire with rope",
+    "description": "A woman is pulled from an apartment block in New York after a blaze left at least 38 people injured.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-63532906",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15075/production/_127533168_untitled.png",
+    "publishedAt": "2022-11-06T08:52:17.9355606Z",
+    "content": "Dramatic video shows a woman being pulled to safety with a rope on the side of a high-rise apartment block in New York.\r\nFirefighters rescued her from the 20th floor of the burning building in Manhat… [+243 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "COP27: 'Watershed moment' as UN climate summit begins",
+    "description": "Nations are being urged to turn pledges into action as the UN climate conference opens in Egypt.",
+    "url": "http://www.bbc.co.uk/news/science-environment-63517078",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/CC6C/production/_127523325_77e3e6e31aeebc37280e40373e3f493e925d90e110_144_5183_29155183x2915.jpg",
+    "publishedAt": "2022-11-06T04:37:20.8267622Z",
+    "content": "The UN's annual climate change summit opens on Sunday with hosts Egypt billing it as the world's \"watershed moment\" on climate action.\r\nMore than 120 world are leaders heading to the Red Sea resort o… [+4206 chars]"
+    }
+    ]
+    }
